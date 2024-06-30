@@ -1,0 +1,11 @@
+easyocr
+opencv-python-headless
+matplotlib
+transformers
+Pillow
+numpy
+groq
+requests
+streamlit
+torch
+pymongo
